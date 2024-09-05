@@ -33,9 +33,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ririkuchuu&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <br clear="both">
 
 [comment]: <![snake gif](https://github.com/ririkuchuu/ririkuchuu/blob/output/github-contribution-grid-snake.svg)>
