@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com//ririkuchuu/ririkuchuu/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ririkuchuu/riku/blob/output/github-contribution-grid-snake.svg)
 
 ###
