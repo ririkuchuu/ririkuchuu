@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, i'm Rimar!</h1>
-<h3 align="center">student developer and graphic designer</h3>
+<h3 align="center">u can call me riku. i'm a student developer and have a passion in graphic designing and frontend development~</h3>
 <img align="right" alt="Coding" width="400" src="https://i.sstatic.net/tCeqe.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ririkuchuu&label=Profile%20views&color=0e75b6&style=flat" alt="ririkuchuu" /> </p>
