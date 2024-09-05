@@ -4,7 +4,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ririkuchuu&icon=3&color=10)](https://visitcount.itsvg.in)
 
-
 - 🔭 I’m currently working on **multiple school projects.**
 
 - 🌱 I’m currently learning **different programming languages.**
